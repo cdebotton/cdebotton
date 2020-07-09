@@ -5,5 +5,3 @@ My name's Christian, I'm a Senior Principal Engineer on the Platform team at Vim
 My professional focus has spanned UI engineering, backend services, and tooling, and I enjoy creative coding when I can.
 
 In a past life I was a graphic designer and motion graphics animator.
-
-<img width=40% height src="./w5ofs6G.jpg">

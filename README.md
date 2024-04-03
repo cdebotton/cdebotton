@@ -1,6 +1,6 @@
 ## Oh, hello!
 
-My name's Christian, I'm a Senior Principal Engineer on the Developer Platform team at Vimeo. Before going remote and moving to the Bay Area, I was an Engineering Manager for product and platform teams at Vimeo HQ in NYC. I enjoy [taking pictures](https://www.instagram.com/cdebotton/) and traveling in my free time.
+My name's Christian, I'm a sofrware engineer at The Browser Company, working on Arc! I'm currently living in the San Francisco Bay Area after three decades in New York City. I enjoy [taking pictures](https://www.instagram.com/cdebotton/) and traveling in my free time.
 
 My professional focus has spanned UI engineering, backend services, and tooling, and I enjoy creative coding when I can.
 
